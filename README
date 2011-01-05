@@ -1,0 +1,4 @@
+Original script by P@draigBrady.com as noted in the comments. 
+Available at URL: http://www.pixelbeat.org/scripts/ps_mem.py
+
+I made one small change: the original script groups together processes by process name such as 'java' ... this modification lists processes with their full arguments much like running ps -ef. Yeah, big deal. Still, helpful when running many java programs.
